@@ -1,5 +1,14 @@
 # Add User Accounts on Active Directory.
 
+Adding users to Active Directory helps in centralized management, security, access control, and compliance.
+
+🔥 Example Scenario.
+👨‍💻 "New Employee Joins the Company.
+✅ IT Admin creates a user account in AD.
+✅ The user is added to the "Marketing Department" group.
+✅ The user gets access to Marketing files, email, and software.
+✅ If the user leaves, IT disables the account, ensuring security.
+
 Run [Server Manager] and click [Tools] - [Active Directory Users and Conputers].
  
 ![ad-14](https://github.com/user-attachments/assets/0fe80413-3801-41e1-819b-f18d74a1098c)
