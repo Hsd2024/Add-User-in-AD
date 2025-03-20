@@ -2,24 +2,24 @@
 
 Run [Server Manager] and click [Tools] - [Active Directory Users and Conputers].
  
-01- (https://github.com/user-attachments/assets/b9be4cf2-452e-406f-a42b-658a0844b31a)
+![ad-14](https://github.com/user-attachments/assets/0fe80413-3801-41e1-819b-f18d74a1098c)
 
-02- Right-click [Users] on the left tree and select [New] - [User].
+Right-click [Users] on the left tree and select [New] - [User].
 
-03- (https://github.com/user-attachments/assets/362e89fa-575f-4635-9197-29b9edaecd80)
+![ad-15](https://github.com/user-attachments/assets/e7121ee5-6c6e-484d-92c6-7693bc32bb53)
 
 **Add User Info**
 
-04- (https://github.com/user-attachments/assets/e07b9d6f-1ce1-49e9-b5a9-03fa5f745772)
+![ad-16](https://github.com/user-attachments/assets/a43b2cce-de17-41b0-ad16-868c4179c724)
 
 **Add password**
 
-05- (https://github.com/user-attachments/assets/36e17463-93cc-4449-a3d2-3123d9e4b326)
+![ad-17](https://github.com/user-attachments/assets/7c2167b5-8b20-468c-b05b-e083e8f86563)
 
 **Click Finish**
 
-06- (https://github.com/user-attachments/assets/d42f01da-5348-4c64-adae-155370129c11)
+![ad-18](https://github.com/user-attachments/assets/f7395a7f-e81a-49bf-8826-138b72b0d7e7)
 
 **User Added **
 
-07- (https://github.com/user-attachments/assets/482e6285-5d66-4962-992d-4f0c02104373)
+![ad-19](https://github.com/user-attachments/assets/773e0e94-c7cf-4f11-97d0-7f53ccac5ca7)
